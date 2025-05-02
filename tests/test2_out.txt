@@ -1,0 +1,24 @@
+10:00
+09:50 1 alice
+09:50 13 NotOpenYet
+10:00 1 alice
+10:00 2 alice 1
+10:05 1 bob
+10:05 2 bob 2
+10:10 1 charlie
+10:10 3 charlie
+10:15 1 dave
+10:15 3 dave
+10:20 1 eve
+10:20 3 eve
+10:20 11 eve
+10:30 4 alice
+10:30 12 charlie 1
+10:45 4 bob
+10:45 12 dave 2
+11:00 4 charlie
+12:00 11 dave
+12:00 11 eve
+12:00
+1 10 01:00
+2 15 01:55
